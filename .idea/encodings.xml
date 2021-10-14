@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/assets/images/login.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/static/images/login.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/styles/element-ui.scss" charset="GBK" />
+  </component>
+</project>
